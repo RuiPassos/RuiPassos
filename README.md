@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi there! 👋 I'm Rui Filipe Sousa Passos
+Welcome to my GitHub profile! I'm passionate about coding, learning. Here's a bit about me and my work:
 
-<!--
-**RuiPassos/RuiPassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🌱 I’m currently learning JAVA Spring-Boot and C# .NET.
+🔭 I’m working on developing my portfolio.
+🤝 I’m open to collaborate on interesting projects, especially in Games or other tech projects.
+⚡ Fun fact: video games are my passion.
+🛠️ Technologies & Tools
+C# Java Unity JavaScript HTML5 CSS3
 
-Here are some ideas to get you started:
+📊 GitHub Stats
+Top Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Achievements
+🌟 Completed Bachelor's Degree in IPMAIA.
+🏅 Completed Code for All 3 months intensive bootcamp.
+📂 Projects
+Here are some of the projects I’ve worked on:
+
+Task Manager Application: An application to manage tasks efficiently.
+UnWasted frontend: [Single page application made with JavaScript].
+UnWasted backend: [Java Spring-Boot backend].
+Unity projects: Scripts in C# for Unity projects.
+🌐 Let's Connect
+LinkedIn: josemoreira99
+Email: jose.antonio.moreira18@gmail.com
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions. 😊
