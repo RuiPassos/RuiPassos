@@ -1,20 +1,24 @@
-Hi there! 👋 I'm Rui Filipe Sousa Passos
---------------------------------------------------------------------------------------------------------
-Welcome to my GitHub profile! I'm passionate about coding, learning. Here's a bit about me and my work:
---------------------------------------------------------------------------------------------------------
+# Hi there! 👋 I'm Rui Filipe Sousa Passos
 
-### 🚀 About Me
+Welcome to my GitHub profile! I'm passionate about coding and learning. Here's a bit about me and my work:
 
-- 🌱 I’m currently learning JAVA Spring-Boot and C# .NET.
-- 🔭 I’m working on developing my portfolio.
-- 🤝 I’m open to collaborate on interesting projects, especially in Games or other tech projects.
-- ⚡ Fun fact: video games are my passion.
-- 🛠️ Technologies & Tools
-- C# Java Unity JavaScript HTML5 CSS3
---------------------------------------------------------------------------------------------------------
-### 📊 GitHub Stats
+---
 
-- Linguagens de Programação
+## 🚀 About Me
+
+* 🎓 I'm currently attending a Higher Professional Technical Course in Information Systems Technologies and Programming at **IPMAIA**.
+* 🌱 I’m currently learning **JAVA Spring-Boot** and **C# .NET**.
+* 🔭 I’m working on **developing my portfolio**.
+* 🤝 I’m open to collaborate on interesting projects, especially in **web sites, apps and tech projects**.
+* ⚡ Fun fact: **My discipline and focus stem from the sports I practice and my military background.**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas (Tech Stack)
+
+Estas são as linguagens e frameworks que estou a usar e a aprender:
+
+### Linguagens de Programação
 <p align="left">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
@@ -23,20 +27,36 @@ Welcome to my GitHub profile! I'm passionate about coding, learning. Here's a bi
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
 </p>
 
-- Frameworks e Ferramentas
+### Frameworks e Ferramentas
 <p align="left">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
+    <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </p>
 
---------------------------------------------------------------------------------------------------------
-### 🏆 Achievements
+---
+
+## 🏆 Formação & Conquistas
+
 * 📚 **Higher Professional Technical Course in Information Systems Technologies and Programming** - **IPMAIA** (Currently Attending)
 
---------------------------------------------------------------------------------------------------------
-### 🌐 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/rui-passos-423691354/
-- Email: passosrp2@gmail.com
+---
 
-Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions. 😊
+## 📂 Projetos em Destaque
+
+| Nome do Projeto | Descrição Breve |
+| :--- | :--- |
+| **[Projeto de Estudo CTeSP 1]** | Demonstração de conceitos de POO em Java. |
+| **[Projeto .NET Core]** | Aplicação de Gestão de Tarefas (CRUD) usando C# e .NET. |
+
+---
+
+## 🌐 Contactos
+
+* **LinkedIn:** [rui-passos-423691354](https://www.linkedin.com/in/rui-passos-423691354/)
+* **Email:** passosrp2@gmail.com
+
+---
+
+### Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions. 😊
