@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I'm passionate about coding and learning. Here's a
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas (Tech Stack)
+## 🛠️ Technologies & Tools (Tech Stack)
 
-Estas são as linguagens e frameworks que estou a usar e a aprender:
+These are the languages and frameworks I am currently using and learning:
 
-### Linguagens de Programação
+### Programming Languages
 <p align="left">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
@@ -27,7 +27,7 @@ Estas são as linguagens e frameworks que estou a usar e a aprender:
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
 </p>
 
-### Frameworks e Ferramentas
+### Frameworks & Tools
 <p align="left">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
@@ -37,22 +37,22 @@ Estas são as linguagens e frameworks que estou a usar e a aprender:
 
 ---
 
-## 🏆 Formação & Conquistas
+## 🏆 Education & Achievements
 
 * 📚 **Higher Professional Technical Course in Information Systems Technologies and Programming** - **IPMAIA** (Currently Attending)
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Featured Projects
 
-| Nome do Projeto | Descrição Breve |
+| Project Name | Brief Description |
 | :--- | :--- |
-| **[Projeto de Estudo CTeSP 1]** | Demonstração de conceitos de POO em Java. |
-| **[Projeto .NET Core]** | Aplicação de Gestão de Tarefas (CRUD) usando C# e .NET. |
+| **[CTeSP Study Project 1]** | Demonstration of OOP (Object-Oriented Programming) concepts in Java. |
+| **[Core .NET Project]** | Task Management Application (CRUD) using C# and .NET. |
 
 ---
 
-## 🌐 Contactos
+## 🌐 Contact
 
 * **LinkedIn:** [rui-passos-423691354](https://www.linkedin.com/in/rui-passos-423691354/)
 * **Email:** passosrp2@gmail.com
