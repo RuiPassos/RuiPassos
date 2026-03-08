@@ -45,7 +45,7 @@ These are the languages and frameworks I am currently using and learning:
 
 ## 🏆 Education & Achievements
 
-* 📚 **Higher Professional Technical Course in Information Systems Technologies and Programming** - **IPMAIA** (Currently Attending)
+* 📚 **Higher Professional Technical Course in Information Systems Technologies and Programming** - **IPMAIA** (Currently Attending) | 1st Semester finish with 18/20 mean.
 
 ---
 
