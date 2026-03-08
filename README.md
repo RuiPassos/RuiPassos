@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning. Here's a
 ## 🚀 About Me
 
 * 🎓 I'm currently attending a Higher Professional Technical Course in Information Systems Technologies and Programming at **IPMAIA**.
-* 🌱 I’m currently learning **JAVA Spring-Boot** and **C# .NET**.
+* 🌱 I’m currently learning **JavaScript Node.js** and **C# .NET**.
 * 🔭 I’m working on **developing my portfolio**.
 * 🤝 I’m open to collaborate on interesting projects, especially in **web sites, apps and tech projects**.
 * ⚡ Fun fact: **My discipline and focus stem from the sports I practice and my military background.**
