@@ -53,8 +53,7 @@ These are the languages and frameworks I am currently using and learning:
 
 | Project Name | Brief Description |
 | :--- | :--- |
-| **[CTeSP Study Project 1]** | Demonstration of OOP (Object-Oriented Programming) concepts in Java. |
-| **[Core .NET Project]** | Task Management Application (CRUD) using C# and .NET. |
+| **[POS-System_FarturasManager](https://github.com/teu-utilizador/POS-System_FarturasManager)** | Touch-first POS desktop application using C#, SQLite, and WinForms, featuring a dynamic UI, business intelligence dashboard, and automated certified invoicing via Vendus API. |
 
 ---
 
