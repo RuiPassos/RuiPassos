@@ -8,7 +8,7 @@ I am a highly disciplined developer currently pursuing a **Higher Professional T
 
 ## 🚀 About Me
 
-- 🎓 **Academic Excellence:** Currently holding an **18/20 average** at IPMAIA, with a **20/20 in Introduction to Programming** and **17/20 in Databases**.
+- 🎓 **Academic Excellence:** Currently holding an **18/20 average** at IPMAIA, with a **20/20 in Introduction to Programming**, **18/20 in Mathematics & Statistics**, and **17/20 in Databases**.
 - 🎖️ **Background:** Former **Commando** in the Portuguese Army. I apply the same "mission-first" mindset and resilience to solving complex coding problems.
 - ⚡ **Commitment:** I operate with total accountability—no task is left for tomorrow, and I carry every project to full completion.
 - 🌱 **Currently Leveling Up:** Expanding my stack with **Node.js, Express, and PHP (Laravel)**.
