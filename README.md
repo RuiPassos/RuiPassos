@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rui Passos
 
-### Mission-First Developer | CTeSP Student @ IPMAIA | Ex-Commando 🇵🇹
+### Mission-First Developer | CTeSP Student @ IPMAIA | Ex-Military 🇵🇹
 
 I am a highly disciplined developer currently pursuing a **Higher Professional Technical Course (CTeSP)** in Information Systems Technologies and Programming. I bridge the gap between **industrial precision**, **military discipline**, and **software engineering**.
 
