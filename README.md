@@ -44,8 +44,8 @@ I am a highly disciplined software engineer bridging the gap between **industria
 
 | Project | Tech Stack | Key Features |
 | :--- | :--- | :--- |
+| **[HealthTech Predictive MVP](https://github.com/RuiPassos/HealthTech-MVP)** *(In Development)* | Node.js / Go, SQL, Multiplatform Mobile | Predictive metabolic co-pilot integrating CGM APIs and wearable telemetry to prevent workplace hypoglycemia. |
 | **[FarturasManager (POS)](https://github.com/RuiPassos/POS-System-FarturasManager)** | C#, SQLite, Vendus API | Full POS system with automated invoicing, BI Dashboard, and NIF validation. |
-| **[Rental & Utility App](https://github.com/RuiPassos/Rental-Utility-Manager)** | .NET MAUI, SQL | Automated utility billing with custom algorithms for property and tenant management. |
 
 ---
 
