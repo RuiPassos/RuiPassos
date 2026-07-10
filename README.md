@@ -8,7 +8,7 @@ I am a highly disciplined software engineer bridging the gap between **industria
 
 ## 🚀 About Me
 
-- 💻 **Current Role:** Junior Backend Developer, working with modern architectures, microservices, and fast-paced development cycles.
+- 💻 **Current Role:** Software Engineering Intern @ Sword Health, building scalable microservices and fast-paced tech solutions (Go, Node.js, Vue).
 - 🎓 **Academic Excellence:** Completed the 1st year of the Software Development CTeSP at IPMAIA with an outstanding **19/20 final average** (including **20/20 in OOP** and **19/20 in Backend Web Development**).
 - 🎖️ **Background:** Former **Commando** in the Portuguese Army. I apply the same "mission-first" mindset, resilience, and attention to detail to solving complex system architecture problems.
 - ⚡ **Commitment:** I operate with total accountability—no task is left for tomorrow, and I carry every project to full completion.
