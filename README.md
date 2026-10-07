@@ -106,13 +106,6 @@ I am a highly disciplined **Software Engineering Student at IPMAIA** with a **19
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github.readme-stats.vercel.app/api?username=RuiPassos&show_icons=true&theme=tokyonight" alt="Rui's Stats" />
-</p>
-
----
-
 ## 📬 Connect & Collaborate
 
 I'm always open to discussing backend architecture, microservices, and internship opportunities:
