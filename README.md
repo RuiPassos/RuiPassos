@@ -32,8 +32,9 @@ I am a highly disciplined **Software Engineering Student at IPMAIA** with a **19
 
 ### 🩺 [Voltik · Digital Health for Diabetes](https://github.com/RuiPassos/HealthTech-MVP) `🚧 In Active Development`
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/RuiPassos/HealthTech-MVP)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://github.com/RuiPassos/HealthTech-MVP)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://github.com/RuiPassos/HealthTech-MVP)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15%2B-316192?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Voltik-Health)
+[![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Voltik-Health)
+[![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://github.com/Voltik-Health)
 [![Status](https://img.shields.io/badge/Status-In%20Active%20Development%20%F0%9F%9A%A7-orange?style=flat-square)](https://github.com/RuiPassos/HealthTech-MVP)
 
 > **Scalable digital health platform for continuous diabetes management and AI-assisted health tracking**
